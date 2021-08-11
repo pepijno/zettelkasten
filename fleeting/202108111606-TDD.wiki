@@ -1,0 +1,7 @@
+= TDD =
+
+-- Maximize coverage, minimize the amount of test code
+-- Replace tests for errors with designs that make the errors impossible
+
+== References ==
+[[https://spin.atomicobject.com/2014/12/09/typed-language-tdd-part1/]]

@@ -1,0 +1,7 @@
+= Biases-Seniors =
+
+-- "Senior" is not better than you
+-- Always try to separate solution from person
+
+== Rerefence ==
+[[https://thevaluable.dev/cognitive-bias-software-development/]]
