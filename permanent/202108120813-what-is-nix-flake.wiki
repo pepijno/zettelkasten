@@ -1,0 +1,10 @@
+= What is a nix flake =
+
+Nix flakes are a way to solve the problems of nix pkgs repositories. In nix flakes all dependencies are declared explicitly and the flake.lock file is used to peg the versions of the repositories used.
+
+General: TK
+Specifi: TK
+Related: TK
+
+== Reference ==
+[[literature/202108101624-nix-flakes.wiki]]

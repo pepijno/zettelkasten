@@ -1,0 +1,12 @@
+= TDD minimize tests =
+
+One of the goals of TDD is to minimize the amount of tests. That means that you should have the same confidence in the correctness of your code with less tests.
+
+One way of minimizing tests is to replace tests for errors with designs that make the errors impossible. I.E. instead of checking for an invalid value and making a test, capture the invalid value in the type system.
+
+General: TK
+Specific: TK
+Related: TK
+
+== Reference ==
+[[literature/202108111606-TDD.wiki]]

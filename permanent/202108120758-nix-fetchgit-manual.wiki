@@ -1,0 +1,10 @@
+= Nix fetchgit should be updated manually =
+
+The downside of fetchgit is that it should be updated manually because it uses the rev of the git repository.
+
+Generic: TK
+Specific: TK
+Related: TK
+
+== Reference ==
+[[literature/202108101624-nix-flakes.wiki]]
