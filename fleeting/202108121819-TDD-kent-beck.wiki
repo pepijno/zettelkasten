@@ -1,6 +1,0 @@
-= TDD Kent Beck =
-
-A tweet from Kent Beck about starting TDD
-
-== Reference ==
-[[https://twitter.com/KentBeck/status/1421257650113634304?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1421257650113634304%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fblog.thecodewhisperer.com%2Fpermalink%2Fbreaking-through-that-first-tdd-block]]

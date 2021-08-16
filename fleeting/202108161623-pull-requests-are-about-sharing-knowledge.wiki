@@ -1,3 +1,0 @@
-= Pull requests are about sharing knowledge =
-
-Pull requests are about sharing knowledge

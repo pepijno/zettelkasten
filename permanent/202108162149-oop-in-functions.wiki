@@ -1,0 +1,8 @@
+= OOP in functions =
+
+OOP can also be written with functions. Just create a function which returns some kind of struct with all the relevant methods in it. This arises from the observation that all methods in a class/object could be called with some generic 'send' method.
+Zig has a great way to do this as functions can return anonymous structs.
+
+General: TK
+Specific: TK
+Related: TK

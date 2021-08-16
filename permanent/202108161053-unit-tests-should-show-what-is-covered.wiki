@@ -2,6 +2,5 @@
 
 A unit test should also show what is covered. Don't just write that some values throw exceptions, but also show that some other values do not throw exceptions. This is in contrast to minimizing tests in TDD [[../permanent/202108112346-tdd-minimize-tests.wiki]].
 
-
 General: TK
 Related: TK

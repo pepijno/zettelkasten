@@ -1,0 +1,7 @@
+= Pull requests are about sharing knowledge =
+
+Apart from letting others check your code on correctness and thus reducing the amount of bugs, one of the main reasons to do pull requests is that they share knowledge about the code that is being written to other team members, and thus reducing the bus factor.
+
+General: TK
+Specific: TK
+Related: TK
