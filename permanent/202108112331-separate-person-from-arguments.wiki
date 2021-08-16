@@ -7,4 +7,4 @@ Specific link: TK
 Related link: TK
 
 == Reference ==
-[[literature/202108111820-Biases-Seniors.wiki]]
+[[../literature/202108111820-Biases-Seniors.wiki]]

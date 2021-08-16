@@ -7,4 +7,4 @@ Specifi: TK
 Related: TK
 
 == Reference ==
-[[literature/202108101624-nix-flakes.wiki]]
+[[../literature/202108101624-nix-flakes.wiki]]

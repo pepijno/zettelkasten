@@ -9,4 +9,4 @@ Specific: TK
 Related: TK
 
 == Reference ==
-[[literature/202108111606-TDD.wiki]]
+[[../literature/202108111606-TDD.wiki]]

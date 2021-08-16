@@ -1,0 +1,8 @@
+= Structure and interpretation of test cases =
+
+-- When using the term code coverage, make it clear what kind of coverage
+-- Name tests specific
+-- Do not have one-to-one tests with methods
+
+== Reference == 
+[[https://www.youtube.com/watch?v=RX6WvaxmIyY]]
